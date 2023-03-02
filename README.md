@@ -40,9 +40,9 @@
  ### 下载证书及密钥
  
     ~/.acme.sh/acme.sh --installcert -d 输入你的域名 --key-file /root/private.key --fullchain-file /root/cert.crt
- 
+### 
     /root/private.key
-    
+### 
     /root/cert.crt
 
 ### ##BBR加速##
