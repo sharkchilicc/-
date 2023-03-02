@@ -26,6 +26,11 @@
 
     wget -N https://gitlab.com/rwkgyg/x-ui-yg/raw/main/install.sh && bash install.sh
 
+### ##BBR加速##
+甲骨文ARM机器不能安装第三方BBR会失联，其他自行测试
+
+
+
 ### ubuntu开放所有端口
 
     iptables -P INPUT ACCEPT
